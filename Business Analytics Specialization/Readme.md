@@ -1,1 +1,1 @@
-Learned about how to work with seasonlized and de-seasonlized trend lines, how to create optimizations models and how to use the Solver Tool in Excel.
+Learned about how to work with seasonlized and de-seasonlized trend lines, learned about the significance of optimization model, how to create them in Excel, and how to user the solver tool.
